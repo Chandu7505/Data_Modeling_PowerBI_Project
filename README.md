@@ -20,14 +20,14 @@ The following comparison shows how the original data model was transformed into 
 <tr>
 <td>
 
-<img width="1411" height="728" alt="Initial data Model" src="https://github.com/user-attachments/assets/a6e93a91-c65e-4d1e-8c10-6db3cf19e756" />
+<img  width="100%" height="728" alt="Initial data Model" src="https://github.com/user-attachments/assets/a6e93a91-c65e-4d1e-8c10-6db3cf19e756" />
 
 
 </td>
 
 <td>
 
-<img width="1712" height="732" alt="Final Data Model" src="https://github.com/user-attachments/assets/32043afa-60f6-4151-81d2-cce4c73116e8" />
+<img  width="100%" height="732" alt="Final Data Model" src="https://github.com/user-attachments/assets/32043afa-60f6-4151-81d2-cce4c73116e8" />
 
 
 
