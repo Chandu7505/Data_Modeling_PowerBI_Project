@@ -5,6 +5,47 @@
 This project focuses on transforming a large and complex dataset into a clean, efficient, and scalable Power BI data model. The objective is to build a well-structured star schema by identifying business entities, creating dimensions and fact tables, standardizing data, and optimizing the model for reporting and performance.
 
 ---
+---
+
+# 🖼️ Data Model Comparison
+
+The following comparison shows how the original data model was transformed into a clean, optimized **Star Schema**.
+
+<table>
+<tr>
+<td align="center"><b>Initial Data Model</b></td>
+<td align="center"><b>Final Data Model</b></td>
+</tr>
+
+<tr>
+<td>
+
+<img width="1411" height="728" alt="Initial data Model" src="https://github.com/user-attachments/assets/a6e93a91-c65e-4d1e-8c10-6db3cf19e756" />
+
+
+</td>
+
+<td>
+
+<img width="1712" height="732" alt="Final Data Model" src="https://github.com/user-attachments/assets/32043afa-60f6-4151-81d2-cce4c73116e8" />
+
+
+
+</td>
+</tr>
+</table>
+
+**Key Improvements**
+
+- Simplified relationship structure
+- Implemented a Star Schema design
+- Built reusable dimension tables
+- Optimized fact tables
+- Improved model readability
+- Enhanced query performance
+- Reduced model complexity
+
+---
 
 # 🎯 Project Objectives
 
